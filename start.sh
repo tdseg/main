@@ -2,7 +2,7 @@
 
 # configs
 AUUID=24b4b1e1-7a89-45f6-858c-242cf53b5bdb
-CADDYIndexPage=https://bing.com
+CADDYIndexPage=https://ipleak.net
 CONFIGCADDY=https://raw.githubusercontent.com/bsefwe/H-X/main/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/bsefwe/H-X/main/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
