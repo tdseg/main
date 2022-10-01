@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=24b4b1e1-7a89-45f6-858c-242cf53b5bdb
+AUUID=5aaed9b7-7fe3-47c3-bb52-db59859ce198
 CADDYIndexPage=https://ipleak.net
 CONFIGCADDY=https://raw.githubusercontent.com/bsefwe/H-X/main/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/bsefwe/H-X/main/etc/xray.json
